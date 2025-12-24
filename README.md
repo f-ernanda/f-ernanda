@@ -2,10 +2,7 @@
 
 I'm Fernanda, and I like understanding why things behave the way they do, even when that knowledge isn’t strictly useful. 
 
-Especially then. 
-
-That's usually where the fun starts 😁
-
+Especially then 😁
 
 ## What I’m interested in
 
@@ -18,7 +15,6 @@ Most of my curiosity lives around:
   
 I enjoy digging under the hood and following that thread until it turns into notes or code (and most of the time, both).
 
-
 ## What you’ll find here
 
 This GitHub is less about polished products and more about thinking in public.
@@ -30,6 +26,7 @@ And that’s intentional 🤓
 ## Writing things down
 
 I write to organize what I’m learning and untangle thoughts that refuse to stay quiet.
+
 You can find my longer-form writing on my blog: [My Uncompiled Thoughts](https://my-uncompiled-thoughts.hashnode.dev/).
 This is where I try to make sense of what I’m learning. 
 
