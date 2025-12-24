@@ -31,7 +31,9 @@ And that’s intentional 🤓
 
 I write to organize what I’m learning and untangle thoughts that refuse to stay quiet.
 You can find my longer-form writing on my blog: [My Uncompiled Thoughts](https://my-uncompiled-thoughts.hashnode.dev/).
-This is where I try to make sense of what I’m learning. And if it also helps someone else make sense of a tangled idea, that’s already a win.
+This is where I try to make sense of what I’m learning. 
+
+And if it also helps someone else make sense of a tangled idea, that’s already a win.
 
 ## Beyond code
 When I’m not coding or writing, I’m probably:
